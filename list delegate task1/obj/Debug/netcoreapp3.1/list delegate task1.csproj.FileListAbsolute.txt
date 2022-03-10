@@ -1,0 +1,14 @@
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.csproj.AssemblyReference.cache
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.AssemblyInfoInputs.cache
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.AssemblyInfo.cs
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.csproj.CoreCompileInputs.cache
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.exe
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.deps.json
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.runtimeconfig.json
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.runtimeconfig.dev.json
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.dll
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\bin\Debug\netcoreapp3.1\list delegate task1.pdb
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.dll
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.pdb
+C:\Users\orxan\source\repos\list delegate task1\list delegate task1\obj\Debug\netcoreapp3.1\list delegate task1.genruntimeconfig.cache
